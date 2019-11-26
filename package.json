@@ -1,0 +1,20 @@
+{
+  "name": "studeal-verification",
+  "version": "1.0.0",
+  "description": "Ticket checker for studeal",
+  "main": "index.js",
+  "repository": "https://github.com/nowtryz/studeal-verification",
+  "author": "Damien Djmb (Nowtryz)",
+  "license": "MIT",
+  "scripts": {
+    "start": "babel-node src/index.js"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.7.4",
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4"
+  }
+}
